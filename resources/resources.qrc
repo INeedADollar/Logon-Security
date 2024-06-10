@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.jpg</file>
+        <file>images/no-see.png</file>
+        <file>images/see.png</file>
+        <file>images/no-see-red.png</file>
+        <file>images/see-red.png</file>
+        <file>images/continue.png</file>
+        <file>images/shutdown.png</file>
+        <file>images/continue-red.png</file>
+        <file>images/shutdown-red.png</file>
+    </qresource>
+</RCC>
